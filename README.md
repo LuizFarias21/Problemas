@@ -1,3 +1,3 @@
-# Problemas
+# SolvedProblems
 
-Registro de todos os problemas que já resolvi.
+History of problems I've already solved
